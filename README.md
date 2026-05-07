@@ -4,89 +4,73 @@
 
 ### Full Stack Developer • Frontend Motion Engineer • AI Builder
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;Designing+smooth+UI+interactions;Exploring+AI-powered+products" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+modern+web+experiences;Crafting+smooth+UI+animations;Exploring+AI-powered+products" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-## 2026 Focus
+# 💫 About Me
 
 ```yaml
-Frontend Systems:
-  - Motion Architecture
-  - Advanced GSAP
-  - Creative UI Engineering
-
-AI Products:
-  - AI SaaS Workflows
-  - Automation Tools
-  - Intelligent Interfaces
-
-Backend:
-  - Scalable APIs
-  - Authentication
-  - Performance Optimization
-```
-
-</td>
-
-<td width="50%">
-
-## Developer Snapshot
-
-```yaml
+Name: Robin
 Location: Bangladesh
 
-Stack:
+Focus:
+  - Modern Frontend Development
+  - Smooth UI Animations
+  - AI-powered SaaS Products
+
+Currently Working With:
+  - MERN Stack
   - Next.js
   - TypeScript
-  - Node.js
-  - PostgreSQL
-
-Currently Building:
-  - AI SaaS Products
-  - Interactive Web Apps
+  - GSAP
 
 Philosophy:
-  - Design with purpose
-  - Build for performance
-  - Keep interfaces intuitive
+  - Clean code
+  - Performance-first architecture
+  - Great user experience
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
+<br/>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=3C873A)
+### 🌐 Connect With Me
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-webdev)
+[![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmn3399@gmail.com)
 
 </div>
 
 ---
 
-## Analytics
+# 💻 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=3C873A)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![GSAP](https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -106,11 +90,18 @@ Philosophy:
 
 ---
 
+# 🏆 Achievements
+
 <div align="center">
 
-## Connect
+![](https://github-profile-trophy.vercel.app/?username=Robin-Draggy&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-webdev)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmn3399@gmail.com)
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Robin-Draggy&style=for-the-badge&color=bluegrey)
 
 </div>
