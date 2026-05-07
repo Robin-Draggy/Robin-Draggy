@@ -2,58 +2,149 @@
 
 # Robin
 
-### Full Stack Developer crafting modern web experiences
+`Full Stack Developer` • `Frontend Motion Engineer` • `AI SaaS Builder`
+
+Building modern, performant, and interactive web experiences.
+
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=3000&color=777777&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;GSAP+%26+Frontend+Animation+Enthusiast;Building+AI-powered+products" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### About
 
----
+```txt
+Focused on:
+• Modern Frontend Architecture
+• Smooth UI/UX Interactions
+• AI-powered SaaS Products
+• Scalable Full Stack Apps
+```
+
+</td>
+
+<td width="50%">
+
+### Currently
+
+```txt
+Learning    → System Design
+Building    → AI SaaS Products
+Exploring   → Advanced GSAP Motion
+Working On  → Scalable Web Apps
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Stack
+
+<table>
+<tr>
+<td align="center">Frontend</td>
+<td align="center">Backend</td>
+<td align="center">Database</td>
+<td align="center">Tools</td>
+</tr>
+
+<tr>
+<td>
+
+```txt
+React
+Next.js
+TypeScript
+Tailwind
+GSAP
+Framer Motion
+```
+
+</td>
+
+<td>
+
+```txt
+Node.js
+Express
+REST APIs
+Authentication
+Prisma
+```
+
+</td>
+
+<td>
+
+```txt
+MongoDB
+PostgreSQL
+Redis
+Firebase
+```
+
+</td>
+
+<td>
+
+```txt
+Git
+Docker
+Figma
+Vercel
+Linux
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Metrics
+
+<table>
+<tr>
+<td>
+
+```txt
+Experience
+──────────
+Frontend Development
+UI Animation
+Full Stack Architecture
+Performance Optimization
+```
+
+</td>
+
+<td>
+
+```txt
+Interests
+─────────
+AI Products
+Creative Development
+Developer Experience
+Motion Systems
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-### Stack
+### Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,figma,docker" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### Current Focus
-
-AI SaaS • Motion Design • Scalable Web Apps
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:abdullahmn3399@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/abdullah-webdev">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Robin-Draggy&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Draggy&layout=compact&hide_border=true&theme=transparent" />
+[LinkedIn](https://linkedin.com/in/abdullah-webdev) •
+[Email](mailto:abdullahmn3399@gmail.com)
 
 </div>
