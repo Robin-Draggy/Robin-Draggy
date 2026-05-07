@@ -1,58 +1,9 @@
-<h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">Full Stack Developer • UI Animation Enthusiast • AI Builder</h3>
-
 <div align="center">
 
-🌍 Bangladesh  
-⚡ Building modern web experiences with MERN & Next.js  
-🎨 Love GSAP, Framer Motion & smooth UI interactions  
-🚀 Exploring AI-powered SaaS products
+# Robin
+### Full Stack Developer • Creative Frontend Engineer
 
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-webdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahmn3399@gmail.com)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-222222?style=flat&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-222222?style=flat&logo=next.js)
-![NodeJS](https://img.shields.io/badge/Node.js-222222?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-222222?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=flat&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-222222?style=flat&logo=prisma)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-222222?style=flat&logo=tailwind-css)
-![GSAP](https://img.shields.io/badge/GSAP-222222?style=flat&logo=greensock)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-222222?style=flat&logo=framer)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=Robin-Draggy&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=Robin-Draggy&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Robin-Draggy&theme=transparent&hide_border=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Crafting+smooth+UI+animations;Exploring+AI-powered+products" />
 
 </div>
 
@@ -60,6 +11,55 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Robin-Draggy&color=grey)
+### Tech I Enjoy Working With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,docker,figma" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### Currently Focused On
+
+🧠 AI SaaS Products  
+✨ Advanced Frontend Motion & Interactions  
+⚡ High-performance Web Applications
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect With Me
+
+<a href="https://linkedin.com/in/abdullah-webdev">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:abdullahmn3399@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Robin-Draggy&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Draggy&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Robin-Draggy&theme=transparent&hide_border=true" />
 
 </div>
